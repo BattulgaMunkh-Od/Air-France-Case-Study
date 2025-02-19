@@ -18,7 +18,7 @@ Provides an alternative way to segment audiences and prioritize ad spend.
 Validated with AUC-ROC analysis, confirming logistic regression as the better predictive model.
 
  ## Business Recommendations
-🔹 Optimize Google Ads – Prioritize high-performing keywords and reduce spend on low-converting ads.
-🔹 Focus on Global Audience – International ads perform better than regional campaigns.
-🔹 Improve Ad Visualization – Increase engagement by enhancing ad creative design.
-🔹 Leverage Travel Partnerships – Collaborate with travel sites to boost visibility and conversions.
+ 1. Optimize Google Ads – Prioritize high-performing keywords and reduce spend on low-converting ads.
+ 2. Focus on Global Audience – International ads perform better than regional campaigns.
+ 3. Improve Ad Visualization – Increase engagement by enhancing ad creative design.
+ 4. Leverage Travel Partnerships – Collaborate with travel sites to boost visibility and conversions.
